@@ -31,6 +31,7 @@ export const data: Array<Mentor> = [
   },
   {
     id: 3,
+    // photo: '/images/mentors/noah-buscher-8A7fD6Y5VF8-unsplash.jpg',
     photo: '/images/mentors/mentor-sam-rubarema.jpeg',
     name: 'Sam Rubarema',
     linkedin: "https://www.linkedin.com/in/rubarema-sam/",
